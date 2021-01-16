@@ -28,6 +28,7 @@ setup(
             'service_client = ros2_hi6_test.service_client:main',
             'status2_service_client = ros2_hi6_test.status2_service_client:main',
             'joystick_jog_test = ros2_hi6_test.joystick_jog_test:main',
+            'joint_trajectory_test = ros2_hi6_test.joint_trajectory_test:main',
         ],
     },
 )
